@@ -1,8 +1,6 @@
 """Oczko, autor: Al Sweigart, al@inventwithpython.com
 Klasyczna gra karciana. (Ta gra nie uwzględnia
 rozdwojenia kart, ani ubezpieczenia.)
-Więcej informacji na stronie https://pl.wikipedia.org/wiki/Blackjack.
-Kod pobrany ze strony https://ftp.helion.pl/przyklady/wiksma.zip.
 Etykiety: długi, gra, gra karciana"""
 
 import random, sys
